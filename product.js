@@ -1,2 +1,3 @@
-var result = 4*5*6
-console.log(result)
+var result = 1*75*10
+
+console.log(result);

@@ -1,2 +1,3 @@
- var result = 5 % 3
+var result = 5 % 3
+
 console.log(result);

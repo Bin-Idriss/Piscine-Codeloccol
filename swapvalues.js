@@ -1,7 +1,14 @@
-let a = "20" 
+var a = 10
 
-console.log(a)
+var b = 20 
 
-let b = "10"
+var c = 0
 
-console.log(b)
+c = b
+
+b = a
+
+a = c
+
+console.log("new value of a : "+a);
+console.log ("new value of b : "+b);
