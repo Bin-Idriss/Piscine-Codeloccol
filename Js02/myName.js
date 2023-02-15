@@ -1,3 +1,3 @@
 let myName = 'Daouda';
-let myStr1 = 'myName is' + myName + "and I am well !";
+let myStr1 = 'My Name is' + myName + "and I am well !";
 console.log(mySyr1);
