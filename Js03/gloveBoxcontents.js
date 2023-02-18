@@ -2,18 +2,18 @@ const myStorage = {
   car: {
     inside: {
       'glove box': 'maps',
-      'passenger seat': 'crumbs',
+      'passenger seat': 'crumbs',i7BriBnjhO
     },
     outside: {
       trunk: 'jack',
     },
   },
 };
-const gloveBoxContents = undefined // A modifier
+const gloveBoxContents = undefined //
 
 function gloveBoxContents() {
   const gloveBoxContents = myStorage.car.inside['glove box'];
   return gloveBoxContents;
 }
 
-console.log(gloveBoxContents()); // Affichera "maps"
+console.log(gloveBoxContents()); //
