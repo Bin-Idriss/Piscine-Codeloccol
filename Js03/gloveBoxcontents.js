@@ -9,11 +9,11 @@ const myStorage = {
     },
   },
 };
-const gloveBoxContents = undefined //
+const gloveBoxContents = undefined 
 
 function gloveBoxContents() {
   const gloveBoxContents = myStorage.car.inside['glove box'];
   return gloveBoxContents;
 }
 
-console.log(gloveBoxContents()); //
+console.log(gloveBoxContents()); 
