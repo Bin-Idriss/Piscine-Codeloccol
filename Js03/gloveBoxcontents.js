@@ -1,4 +1,4 @@
-const myStorage = {
+2const myStorage = {
   car: {
     inside: {
       'glove box': 'maps',
@@ -16,4 +16,4 @@ function gloveBoxContents() {
   return gloveBoxContents;
 }
 
-console.log(gloveBoxContents()); 
+console.log(gloveBoxContents); 
